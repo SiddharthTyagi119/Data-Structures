@@ -23,6 +23,7 @@ int main(){
             strcpy(largest,sentence);
         }
     }
+    cout<<"largest element is"<<largest<<endl;
 
     return 0;
 }
