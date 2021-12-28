@@ -11,7 +11,7 @@ int a[100];
 
 2-
 Here {0} means initialization list of array and all the elements will store 0. 
-int a[[100]={0};
+int a[100]={0};
 
 3-
 In this case,first three elements will be {1,2,3} and rest values will be 0.
