@@ -19,5 +19,5 @@ int a[100]={1,2,3};
 
 4-
 In this, we have not define the size of array and it will be the size of initialization list elements.
-inta[]={1,2,3};
+int a[]={1,2,3};
 
